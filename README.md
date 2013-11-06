@@ -12,7 +12,11 @@ Share my personal resources
 <http://v.youku.com/v_show/id_XNTgzNDYzMjg=.html?f=2740765>
 ###推荐系统Crab源码pdf版（python实现）
 <http://pan.baidu.com/s/19WZN1>
+
+
 =======================
+
+
 #书籍
 
 ###各种书~更新中~
