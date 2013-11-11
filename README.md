@@ -4,7 +4,7 @@ Big-Data-Resources
 Share my personal resources 
 
 #大数据相关资源
-
+##视频
 
 ###大数据视频以及讲义
 <http://pan.baidu.com/share/link?shareid=3860301827&uk=3978262348>
@@ -14,8 +14,10 @@ Share my personal resources
 <http://www.tudou.com/listplay/fLDkg5e1pYM.html>
 ###推荐系统Crab源码pdf版（python实现）
 <http://pan.baidu.com/s/19WZN1>
-
-
+###R语言视频
+<http://pan.baidu.com/s/1koSpZ>
+###Hadoop视频
+<http://pan.baidu.com/s/1b1xYd>
 =======================
 
 
