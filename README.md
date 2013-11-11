@@ -12,8 +12,6 @@ Share my personal resources
 <http://v.youku.com/v_show/id_XNTgzNDYzMjg=.html?f=2740765>
 ###用Python做科学计算
 <http://www.tudou.com/listplay/fLDkg5e1pYM.html>
-###推荐系统Crab源码pdf版（python实现）
-<http://pan.baidu.com/s/19WZN1>
 ###R语言视频
 <http://pan.baidu.com/s/1koSpZ>
 ###Hadoop视频
