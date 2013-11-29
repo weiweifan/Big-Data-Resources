@@ -36,4 +36,26 @@ Marcel Caraciolo   <http://aimotion.blogspot.com/>
 
 ResysChina 		   <http://weibo.com/p/1005051686952981>
 
+阿稳	<http://www.wentrue.net>
+
+lovebingkuai	<http://lovebingkuai.diandian.com/>
+
+LSRS 2013 <http://graphlab.org/lsrs2013/program/> 
+
+Google小组 <https://groups.google.com/forum/#!forum/resys>
+
+
+##Github	
+
+###推荐系统
+
+*Mrec(Python)*
+
+		<https://github.com/mendeley/mrec>
+
+*Crab(Python)*
+
+		<https://github.com/muricoca/crab>
+
+
 ##欢迎贡献资源~~待续
