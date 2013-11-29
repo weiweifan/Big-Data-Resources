@@ -3,7 +3,7 @@ Big-Data-Resources
 
 Share my personal resources 
 
-#大数据相关资源
+#大数据/数据挖掘/推荐系统/机器学习相关资源
 ##视频
 
 ###大数据视频以及讲义
@@ -38,12 +38,19 @@ ResysChina 		   <http://weibo.com/p/1005051686952981>
 
 阿稳	<http://www.wentrue.net>
 
+梁斌	<http://weibo.com/pennyliang>
+
+刁瑞	<http://diaorui.net>
+
 lovebingkuai	<http://lovebingkuai.diandian.com/>
 
 LSRS 2013 <http://graphlab.org/lsrs2013/program/> 
 
 Google小组 <https://groups.google.com/forum/#!forum/resys>
 
+###信息检索
+
+清华大学信息检索组 <http://www.thuir.cn>
 
 ##Github	
 
