@@ -99,9 +99,11 @@ Recommendable(Ruby)
         Amazon
         豆瓣读书
         当当网
+  
    ** 新闻**
         Google News
         Genieo
+  
    ** 电影**
         Netflix
         Jinni
@@ -109,6 +111,7 @@ Recommendable(Ruby)
         Rotten Tomatoes
         Flixster
         MTime
+  
    ** 音乐**
         豆瓣电台
         Lastfm
@@ -118,20 +121,25 @@ Recommendable(Ruby)
         EMusic
         Ping
         虾米电台
+  
    ** 视频**
         Youtube
         Hulu
         Clciker
+  
    ** 文章**
         CiteULike
         Google Reader
         StumbleUpon
+  
    ** 旅游**
         Wanderfly
         TripAdvisor
+  
    ** 社会网络**
         Facebook
         Twitter
+  
    ** 综合**
         Amazon
         GetGlue
