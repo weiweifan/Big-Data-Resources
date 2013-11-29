@@ -49,13 +49,43 @@ Google小组 <https://groups.google.com/forum/#!forum/resys>
 
 ###推荐系统
 
-*Mrec(Python)*
+Mrec(Python)
 
 <https://github.com/mendeley/mrec>
 
-*Crab(Python)*
+Crab(Python)
 
 <https://github.com/muricoca/crab>
+
+Python-recsys(Python)
+
+<https://github.com/ocelma/python-recsys>
+
+CofiRank(C++)
+
+<https://github.com/markusweimer/cofirank>
+
+GraphLab(C++)
+
+<https://github.com/graphlab-code/graphlab>
+
+EasyRec(Java)
+
+<https://github.com/hernad/easyrec>
+
+Lenskit(Java)
+
+<https://github.com/grouplens/lenskit>
+
+Mahout(Java)
+
+<https://github.com/apache/mahout>
+
+Recommendable(Ruby)
+
+<https://github.com/davidcelis/recommendable>
+
+
 
 
 ##欢迎贡献资源~~待续
