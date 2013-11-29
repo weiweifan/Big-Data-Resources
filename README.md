@@ -92,6 +92,25 @@ Recommendable(Ruby)
 
 <https://github.com/davidcelis/recommendable>
 
+##文章
+
+###推荐系统
+
+* 探索推荐引擎内部的秘密	<http://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy1/index.html>
+
+* Recommendation Engines Seminar Paper, Thomas Hess, 2009: 推荐引擎的总结性文章 <http://www.slideshare.net/antiraum/recommender-engines-seminar-paper>
+
+* Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions, Adomavicius, G.; Tuzhilin, A., 2005 	<http://dl.acm.org/citation.cfm?id=1070751>
+
+* A Taxonomy of RecommenderAgents on the Internet, Montaner, M.; Lopez, B.; de la Rosa, J. L., 2003 <http://www.springerlink.com/index/KK844421T5466K35.pdf>
+
+* 个性化推荐技术漫谈 <http://blog.csdn.net/java060515/archive/2007/04/19/1570243.aspx>
+
+* Design of Recommender System <http://www.slideshare.net/rashmi/design-of-recommender-systems>
+
+* How to build a recommender system	<http://www.slideshare.net/blueace/how-to-build-a-recommender-system-presentation>
+
+ 
 ##各个领域的推荐系统
 
 **图书**
