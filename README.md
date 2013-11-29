@@ -1,10 +1,10 @@
-Big-Data-Resources
+#大数据/数据挖掘/推荐系统/机器学习相关资源
+
 ==================
 
 Share my personal resources 
 
-#大数据/数据挖掘/推荐系统/机器学习相关资源
-##视频
+#视频
 
 ###大数据视频以及讲义
 <http://pan.baidu.com/share/link?shareid=3860301827&uk=3978262348>
