@@ -34,5 +34,6 @@ Share my personal resources
 
 Marcel Caraciolo   <http://aimotion.blogspot.com/>
 
+ResysChina 		   <http://weibo.com/p/1005051686952981>
 
 ##欢迎贡献资源~~待续
