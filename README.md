@@ -94,11 +94,11 @@ Recommendable(Ruby)
 
 ##各个领域的推荐系统
 
-
-   ** 图书**
-        Amazon
-        豆瓣读书
-        当当网
+**图书**
+       
+* Amazon
+* 豆瓣读书
+* 当当网
   
    ** 新闻**
         Google News
