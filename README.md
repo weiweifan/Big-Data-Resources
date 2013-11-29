@@ -110,7 +110,35 @@ Recommendable(Ruby)
 
 * How to build a recommender system	<http://www.slideshare.net/blueace/how-to-build-a-recommender-system-presentation>
 
+* 推荐系统架构小结  <http://blog.csdn.net/idonot/article/details/7996733>
+
+* System Architectures for Personalization and Recommendation <http://techblog.netflix.com/2013/03/system-architectures-for.html>
+
+* The Netflix Tech Blog <http://techblog.netflix.com/>
+
+* 百分点推荐引擎——从需求到架构<http://www.infoq.com/cn/articles/baifendian-recommendation-engine>
+
+* 推荐系统 在InfoQ上的内容  <http://www.infoq.com/cn/recommend>
+
+* 推荐系统实时化的实践和思考 <http://www.infoq.com/cn/presentations/recommended-system-real-time-practice-thinking>
+
+* 质量保证的推荐实践  <http://www.infoq.com/cn/news/2013/10/testing-practice/> 
  
+* 推荐系统的工程挑战  <http://www.infoq.com/cn/presentations/Recommend-system-engineering>
+
+* 社会化推荐在人人网的应用  <http://www.infoq.com/cn/articles/zyy-social-recommendation-in-renren/>
+
+* 利用20%时间开发推荐引擎  <http://www.infoq.com/cn/presentations/twenty-percent-time-to-develop-recommendation-engine>
+
+
+
+
+
+
+
+
+
+
 ##各个领域的推荐系统
 
 **图书**
