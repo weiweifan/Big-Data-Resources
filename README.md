@@ -40,6 +40,8 @@ ResysChina 		   <http://weibo.com/p/1005051686952981>
 
 刁瑞	<http://diaorui.net>
 
+xlvector <http://xlvector.net>
+
 lovebingkuai	<http://lovebingkuai.diandian.com/>
 
 LSRS 2013 <http://graphlab.org/lsrs2013/program/> 
@@ -90,6 +92,51 @@ Recommendable(Ruby)
 
 <https://github.com/davidcelis/recommendable>
 
+##各个领域的推荐系统
+
+
+   ** 图书**
+        Amazon
+        豆瓣读书
+        当当网
+   ** 新闻**
+        Google News
+        Genieo
+   ** 电影**
+        Netflix
+        Jinni
+        MovieLens
+        Rotten Tomatoes
+        Flixster
+        MTime
+   ** 音乐**
+        豆瓣电台
+        Lastfm
+        Pandora
+        Mufin
+        Lala
+        EMusic
+        Ping
+        虾米电台
+   ** 视频**
+        Youtube
+        Hulu
+        Clciker
+   ** 文章**
+        CiteULike
+        Google Reader
+        StumbleUpon
+   ** 旅游**
+        Wanderfly
+        TripAdvisor
+   ** 社会网络**
+        Facebook
+        Twitter
+   ** 综合**
+        Amazon
+        GetGlue
+        Strands
+        Hunch
 
 
 
