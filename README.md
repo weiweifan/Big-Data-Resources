@@ -26,3 +26,13 @@ Share my personal resources
 ###各种书~更新中~
 <http://pan.baidu.com/s/1EaLnZ>
 ##欢迎贡献资源~~待续
+
+
+
+=======================
+
+## 博客
+
+###推荐系统 
+
+Marcel Caraciolo   <http://aimotion.blogspot.com/>
