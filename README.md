@@ -23,7 +23,7 @@ Share my personal resources
 
 ##书籍
 
-###各种书~更新中~
+###各种书~各种ppt~更新中~
 <http://pan.baidu.com/s/1EaLnZ>
 
 =======================
