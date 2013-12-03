@@ -6,16 +6,26 @@ Share my personal resources
 
 ###大数据视频以及讲义
 <http://pan.baidu.com/share/link?shareid=3860301827&uk=3978262348>
+
 ###浙大数据挖掘系列
 <http://v.youku.com/v_show/id_XNTgzNDYzMjg=.html?f=2740765>
+
 ###用Python做科学计算
 <http://www.tudou.com/listplay/fLDkg5e1pYM.html>
+
 ###R语言视频
 <http://pan.baidu.com/s/1koSpZ>
+
 ###Hadoop视频
 <http://pan.baidu.com/s/1b1xYd>
+
 ###42区 . 技术 . 创业 . 第二讲
 <http://v.youku.com/v_show/id_XMzAyMDYxODUy.html>
+
+###加州理工学院公开课：机器学习与数据挖掘
+<http://v.163.com/special/opencourse/learningfromdata.html>
+
+
 
 =======================
 
@@ -29,7 +39,9 @@ Share my personal resources
 
 ## 博客
 
-###推荐系统 
+###推荐系统
+
+Greg Linden <http://glinden.blogspot.com/> 
 
 Marcel Caraciolo   <http://aimotion.blogspot.com/>
 
@@ -42,6 +54,8 @@ ResysChina 		   <http://weibo.com/p/1005051686952981>
 梁斌	<http://weibo.com/pennyliang>
 
 刁瑞	<http://diaorui.net>
+
+guwendong <http://www.guwendong.com>
 
 xlvector <http://xlvector.net>
 
@@ -101,6 +115,10 @@ Recommendable(Ruby)
 
 ###推荐系统
 
+* Netflix 推荐系统：第一部分 <http://blog.csdn.net/bornhe/article/details/8222450>
+
+* Netflix 推荐系统：第二部分 <http://blog.csdn.net/bornhe/article/details/8222497>
+
 * 探索推荐引擎内部的秘密	<http://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy1/index.html>
 
 * Recommendation Engines Seminar Paper, Thomas Hess, 2009: 推荐引擎的总结性文章 <http://www.slideshare.net/antiraum/recommender-engines-seminar-paper>
@@ -134,6 +152,8 @@ Recommendable(Ruby)
 * 社会化推荐在人人网的应用  <http://www.infoq.com/cn/articles/zyy-social-recommendation-in-renren/>
 
 * 利用20%时间开发推荐引擎  <http://www.infoq.com/cn/presentations/twenty-percent-time-to-develop-recommendation-engine>
+
+* SVD 简介 <http://www.cnblogs.com/FengYan/archive/2012/05/06/2480664.html>
 
 * 《推荐系统实践》的Reference
 
@@ -1082,7 +1102,7 @@ Recommendable(Ruby)
   
 **电影**
        
-*  Netflix
+* Netflix
 * Jinni
 * MovieLens
 * Rotten Tomatoes
