@@ -1099,6 +1099,7 @@ Recommendable(Ruby)
         
 * Google News
 * Genieo
+* Getprismatic  <http://getprismatic.com/>
   
 **电影**
        
