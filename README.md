@@ -65,6 +65,8 @@ xlvector <http://xlvector.net>
 
 lovebingkuai	<http://lovebingkuai.diandian.com/>
 
+LeftNotEasy <http://www.cnblogs.com/LeftNotEasy>
+
 LSRS 2013 <http://graphlab.org/lsrs2013/program/> 
 
 Google小组 <https://groups.google.com/forum/#!forum/resys>
