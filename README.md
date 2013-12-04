@@ -35,6 +35,8 @@ Share my personal resources
 ###各种书~各种ppt~更新中~
 <http://pan.baidu.com/s/1EaLnZ>
 
+###机器学习经典书籍小结
+<http://www.cnblogs.com/snake-hand/archive/2013/06/10/3131145.html>
 =======================
 
 ## 博客
