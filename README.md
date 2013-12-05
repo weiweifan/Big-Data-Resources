@@ -73,6 +73,10 @@ LSRS 2013 <http://graphlab.org/lsrs2013/program/>
 
 Google小组 <https://groups.google.com/forum/#!forum/resys>
 
+###机器学习
+
+Journal of Machine Learning Research <http://jmlr.org/>
+
 ###信息检索
 
 清华大学信息检索组 <http://www.thuir.cn>
@@ -126,6 +130,8 @@ Recommendable(Ruby)
 * Netflix 推荐系统：第二部分 <http://blog.csdn.net/bornhe/article/details/8222497>
 
 * 探索推荐引擎内部的秘密	<http://www.ibm.com/developerworks/cn/web/1103_zhaoct_recommstudy1/index.html>
+
+* 推荐系统resys小组线下活动见闻2009-08-22	<http://www.tuicool.com/articles/vUvQVn>
 
 * Recommendation Engines Seminar Paper, Thomas Hess, 2009: 推荐引擎的总结性文章 <http://www.slideshare.net/antiraum/recommender-engines-seminar-paper>
 
