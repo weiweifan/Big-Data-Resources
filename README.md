@@ -41,6 +41,14 @@ Share my personal resources
 
 =======================
 
+##QQ群
+
+机器学习&模式识别 246159753
+
+数据挖掘机器学习 236347059
+
+推荐系统 274750470
+
 ## 博客
 
 ###推荐系统
@@ -138,6 +146,8 @@ Recommendable(Ruby)
 * Toward the Next Generation of Recommender Systems: A Survey of the State-of-the-Art and Possible Extensions, Adomavicius, G.; Tuzhilin, A., 2005 	<http://dl.acm.org/citation.cfm?id=1070751>
 
 * A Taxonomy of RecommenderAgents on the Internet, Montaner, M.; Lopez, B.; de la Rosa, J. L., 2003 <http://www.springerlink.com/index/KK844421T5466K35.pdf>
+
+* 基于mahout构建社会化推荐引擎  <http://www.doc88.com/p-745821989892.html>
 
 * 个性化推荐技术漫谈 <http://blog.csdn.net/java060515/archive/2007/04/19/1570243.aspx>
 
