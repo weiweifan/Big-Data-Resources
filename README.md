@@ -177,6 +177,8 @@ Recommendable(Ruby)
 
 * 利用20%时间开发推荐引擎  <http://www.infoq.com/cn/presentations/twenty-percent-time-to-develop-recommendation-engine>
 
+* 使用Hadoop和 Mahout实现推荐引擎 <http://www.jdon.com/44747>
+
 * SVD 简介 <http://www.cnblogs.com/FengYan/archive/2012/05/06/2480664.html>
 
 * 《推荐系统实践》的Reference
