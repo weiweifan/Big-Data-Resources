@@ -181,6 +181,8 @@ Recommendable(Ruby)
 
 * SVD 简介 <http://www.cnblogs.com/FengYan/archive/2012/05/06/2480664.html>
 
+* Netflix推荐系统：从评分预测到消费者法则 <http://blog.csdn.net/lzt1983/article/details/7696578>
+
 * 《推荐系统实践》的Reference
 
 			http://en.wikipedia.org/wiki/Information_overload 
