@@ -93,6 +93,8 @@ Journal of Machine Learning Research <http://jmlr.org/>
 
 ###推荐系统
 
+推荐系统开源软件列表汇总和评点 <http://in.sdo.com/?p=1707>
+
 Mrec(Python)
 
 <https://github.com/mendeley/mrec>
