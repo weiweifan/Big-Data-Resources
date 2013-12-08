@@ -53,6 +53,8 @@ Share my personal resources
 
 ###推荐系统
 
+周涛 <http://blog.sciencenet.cn/home.php?mod=space&uid=3075>
+
 Greg Linden <http://glinden.blogspot.com/> 
 
 Marcel Caraciolo   <http://aimotion.blogspot.com/>
