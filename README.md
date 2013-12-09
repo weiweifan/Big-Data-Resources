@@ -151,6 +151,8 @@ Recommendable(Ruby)
 
 * A Taxonomy of RecommenderAgents on the Internet, Montaner, M.; Lopez, B.; de la Rosa, J. L., 2003 <http://www.springerlink.com/index/KK844421T5466K35.pdf>
 
+* A Course in Machine Learning <http://ciml.info/>
+
 * 基于mahout构建社会化推荐引擎  <http://www.doc88.com/p-745821989892.html>
 
 * 个性化推荐技术漫谈 <http://blog.csdn.net/java060515/archive/2007/04/19/1570243.aspx>
