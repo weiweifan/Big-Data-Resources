@@ -135,6 +135,10 @@ Recommendable(Ruby)
 
 ##文章
 
+###机器学习
+
+* 心中永远的正能量  <http://blog.csdn.net/yunlong34574>
+
 ###推荐系统
 
 * Netflix 推荐系统：第一部分 <http://blog.csdn.net/bornhe/article/details/8222450>
