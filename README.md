@@ -91,6 +91,10 @@ Journal of Machine Learning Research <http://jmlr.org/>
 
 清华大学信息检索组 <http://www.thuir.cn>
 
+###自然语言处理
+
+我爱自然语言处理 <http://www.52nlp.cn/>
+
 ##Github	
 
 ###推荐系统
