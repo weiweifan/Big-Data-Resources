@@ -75,6 +75,8 @@ xlvector <http://xlvector.net>
 
 懒惰啊我 <http://www.cnblogs.com/flclain/>
 
+free mind <http://blog.pluskid.org/>
+
 lovebingkuai	<http://lovebingkuai.diandian.com/>
 
 LeftNotEasy <http://www.cnblogs.com/LeftNotEasy>
