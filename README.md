@@ -147,6 +147,8 @@ Recommendable(Ruby)
 
 ###推荐系统
 
+* 推荐系统初探 <http://yongfeng.me/attach/rs-survey-zhang-slices.pdf>
+
 * Netflix 推荐系统：第一部分 <http://blog.csdn.net/bornhe/article/details/8222450>
 
 * Netflix 推荐系统：第二部分 <http://blog.csdn.net/bornhe/article/details/8222497>
