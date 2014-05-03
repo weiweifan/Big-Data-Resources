@@ -149,6 +149,8 @@ Recommendable(Ruby)
 
 * 推荐系统初探 <http://yongfeng.me/attach/rs-survey-zhang-slices.pdf>
 
+* 推荐系统中协同过滤算法若干问题的研究 <http://pan.baidu.com/s/1bnjDBYZ>
+
 * Netflix 推荐系统：第一部分 <http://blog.csdn.net/bornhe/article/details/8222450>
 
 * Netflix 推荐系统：第二部分 <http://blog.csdn.net/bornhe/article/details/8222497>
