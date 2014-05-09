@@ -406,15 +406,15 @@ Recommendable(Ruby)
 　　  
 
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
+    
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90ACM%20RecSys%202009%20Workshop%E3%80%91Improving%20recommendation%20accuracy%20by%20clustering%20so.pdf&amp;id=37991"
     target="_blank">
-        【ACM RecSys 2009 Workshop】Improving recommendation accuracy by clustering
-        so.pdf
+        
     </a>
 </p>
+                
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
+    
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%20Best%20Stu%20Paper%E3%80%91Incorporating%20Occupancy%20into%20Frequent%20Pattern%20Mini.pdf&amp;id=37992"
     target="_blank">
         【CIKM 2012 Best Stu Paper】Incorporating Occupancy into Frequent Pattern
@@ -422,14 +422,14 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
+   
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%20poster%E3%80%91A%20Latent%20Pairwise%20Preference%20Learning%20Approach%20for%20Recomme.pdf&amp;id=37993"
     target="_blank">
         【CIKM 2012 poster】A Latent Pairwise Preference Learning Approach for Recomme.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
+    
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%20poster%E3%80%91An%20Effective%20Category%20Classification%20Method%20Based%20on%20a%20Lan.pdf&amp;id=37994"
     target="_blank">
         【CIKM 2012 poster】An Effective Category Classification Method Based on
@@ -437,21 +437,20 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
-    <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%20poster%E3%80%91Learning%20to%20Rank%20for%20Hybrid%20Recommendation.pdf&amp;id=37995"
+    
+   <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%20poster%E3%80%91Learning%20to%20Rank%20for%20Hybrid%20Recommendation.pdf&amp;id=37995"
     target="_blank">
         【CIKM 2012 poster】Learning to Rank for Hybrid Recommendation.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
+    
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%20poster%E3%80%91Learning%20to%20Recommend%20with%20Social%20Relation%20Ensemble.pdf&amp;id=37996"
     target="_blank">
         【CIKM 2012 poster】Learning to Recommend with Social Relation Ensemble.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%20poster%E3%80%91Maximizing%20Revenue%20from%20Strategic%20Recommendations%20under%20De.pdf&amp;id=37997"
     target="_blank">
         【CIKM 2012 poster】Maximizing Revenue from Strategic Recommendations under
@@ -459,7 +458,6 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%20poster%E3%80%91On%20Using%20Catexperts%20for%20Improving%20the%20Performance%20an.pdf&amp;id=37998"
     target="_blank">
         【CIKM 2012 poster】On Using Category Experts for Improving the Performance
@@ -467,7 +465,6 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%20poster%E3%80%91Relation%20Regularized%20Subspace%20Recommending%20for%20Related%20Sci.pdf&amp;id=37999"
     target="_blank">
         【CIKM 2012 poster】Relation Regularized Subspace Recommending for Related
@@ -475,28 +472,24 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%20poster%E3%80%91Top-N%20Recommendation%20through%20Belief%20Propagation.pdf&amp;id=38000"
     target="_blank">
         【CIKM 2012 poster】Top-N Recommendation through Belief Propagation.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%20poster%E3%80%91Twitter%20Hyperlink%20Recommendation%20with%20User-Tweet-Hyperlink.pdf&amp;id=38001"
     target="_blank">
         【CIKM 2012 poster】Twitter Hyperlink Recommendation with User-Tweet-Hyperlink.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%20short%E3%80%91Automatic%20Query%20Expansion%20Based%20on%20Tag%20Recommendation.pdf&amp;id=38002"
     target="_blank">
         【CIKM 2012 short】Automatic Query Expansion Based on Tag Recommendation.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%20short%E3%80%91Graph-Based%20Workflow%20Recommendation-%20On%20Improving%20Business%20.pdf&amp;id=38003"
     target="_blank">
         【CIKM 2012 short】Graph-Based Workflow Recommendation- On Improving Business
@@ -504,7 +497,6 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%20short%E3%80%91Location-Sensitive%20Resources%20Recommendation%20in%20Social%20Taggi.pdf&amp;id=38004"
     target="_blank">
         【CIKM 2012 short】Location-Sensitive Resources Recommendation in Social
@@ -512,7 +504,6 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%20short%E3%80%91More%20Than%20Relevance-%20High%20Utility%20Query%20Recommendation%20By%20M.pdf&amp;id=38005"
     target="_blank">
         【CIKM 2012 short】More Than Relevance- High Utility Query Recommendation
@@ -520,7 +511,6 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/diaent/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%20short%E3%80%91PathRank-%20A%20Novel%20Node%20Ranking%20Measure%20on%20a%20Heterogeneous%20G.pdf&amp;id=38006"
     target="_blank">
         【CIKM 2012 short】PathRank- A Novel Node Ranking Measure on a Heterogeneous
@@ -528,7 +518,6 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%20short%E3%80%91PRemiSE-%20Personalized%20News%20Recommendation%20via%20Implicit%20Soci.pdf&amp;id=38007"
     target="_blank">
         【CIKM 2012 short】PRemiSE- Personalized News Recommendation via Implicit
@@ -536,14 +525,12 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%20short%E3%80%91Query%20Recommendation%20for%20Children.pdf&amp;id=38008"
     target="_blank">
         【CIKM 2012 short】Query Recommendation for Children.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%20short%E3%80%91The%20Early-Adopter%20Graph%20and%20its%20Application%20to%20Web-Page%20Rec.pdf&amp;id=38009"
     target="_blank">
         【CIKM 2012 short】The Early-Adopter Graph and its Application to Web-Page
@@ -551,21 +538,18 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%20short%E3%80%91Time-aware%20Topic%20Recommendation%20Based%20on%20Micro-blogs.pdf&amp;id=38010"
     target="_blank">
         【CIKM 2012 short】Time-aware Topic Recommendation Based on Micro-blogs.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%20short%E3%80%91Using%20Program%20Synthesis%20for%20Social%20Recommendations.pdf&amp;id=38011"
     target="_blank">
         【CIKM 2012 short】Using Program Synthesis for Social Recommendations.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%E3%80%91A%20Decentralized%20Recommender%20System%20for%20Effective%20Web%20Credibility%20.pdf&amp;id=38012"
     target="_blank">
         【CIKM 2012】A Decentralized Recommender System for Effective Web Credibility
@@ -573,21 +557,18 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%E3%80%91A%20Generalized%20Framework%20for%20Reciprocal%20Recommender%20Systems.pdf&amp;id=38013"
     target="_blank">
         【CIKM 2012】A Generalized Framework for Reciprocal Recommender Systems.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%E3%80%91Dynamic%20Covering%20for%20Recommendation%20Systems.pdf&amp;id=38014"
     target="_blank">
         【CIKM 2012】Dynamic Covering for Recommendation Systems.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%E3%80%91Efficient%20Retri.%20of%20Recommendations%20in%20a%20Matrix%20Factorization%20.pdf&amp;id=38015"
     target="_blank">
         【CIKM 2012】Efficient Retrieval of Recommendations in a Matrix Factorization
@@ -595,49 +576,42 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%E3%80%91Exploring%20Personal%20Impact%20for%20Group%20Recommendation.pdf&amp;id=38016"
     target="_blank">
         【CIKM 2012】Exploring Personal Impact for Group Recommendation.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%E3%80%91LogUCB-%20An%20Explore-Exploit%20Algorithm%20For%20Comments%20Recommendation.pdf&amp;id=38017"
     target="_blank">
         【CIKM 2012】LogUCB- An Explore-Exploit Algorithm For Comments Recommendation.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%E3%80%91Metaphor-%20A%20System%20for%20Related%20Search%20Recommendations.pdf&amp;id=38018"
     target="_blank">
         【CIKM 2012】Metaphor- A System for Related Search Recommendations.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%E3%80%91Social%20Contextual%20Recommendation.pdf&amp;id=38019"
     target="_blank">
         【CIKM 2012】Social Contextual Recommendation.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90CIKM%202012%E3%80%91Social%20Recommendation%20Across%20Multiple%20Relational%20Domains.pdf&amp;id=38020"
     target="_blank">
         【CIKM 2012】Social Recommendation Across Multiple Relational Domains.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90COMMUNICATIONS%20OF%20THE%20ACM%E3%80%91Recommender%20Systems.pdf&amp;id=38021"
     target="_blank">
         【COMMUNICATIONS OF THE ACM】Recommender Systems.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90ICDM%202012%20short___%E3%80%91Multiplicative%20Algorithms%20for%20Constrained%20Non-negative%20M.pdf&amp;id=38022"
     target="_blank">
         【ICDM 2012 short___】Multiplicative Algorithms for Constrained Non-negative
@@ -645,7 +619,6 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90ICDM%202012%20short%E3%80%91Collaborative%20Filtering%20with%20Aspect-based%20Opinion%20Mining-%20A.pdf&amp;id=38023"
     target="_blank">
         【ICDM 2012 short】Collaborative Filtering with Aspect-based Opinion Mining-
@@ -653,14 +626,12 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90ICDM%202012%20short%E3%80%91Learning%20Heterogeneous%20Similarity%20Measures%20for%20Hybrid-Recom.pdf&amp;id=38024"
     target="_blank">
         【ICDM 2012 short】Learning Heterogeneous Similarity Measures for Hybrid-Recom.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90ICDM%202012%20short%E3%80%91Mining%20Personal%20Context-Aware%20Preferences%20for%20Mobile%20Users.pdf&amp;id=38025"
     target="_blank">
         【ICDM 2012 short】Mining Personal Context-Aware Preferences for Mobile
@@ -668,7 +639,6 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90ICDM%202012%E3%80%91Link%20Prediction%20and%20Recommendation%20across%20Heterogenous%20Social%20Networks.pdf&amp;id=38026"
     target="_blank">
         【ICDM 2012】Link Prediction and Recommendation across Heterogenous Social
@@ -676,7 +646,6 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90IEEE%20Computer%20Society%202009%E3%80%91Matrix%20factorization%20techniques%20for%20recommender%20.pdf&amp;id=38027"
     target="_blank">
         【IEEE Computer Society 2009】Matrix factorization techniques for recommender
@@ -684,7 +653,6 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90IEEE%20Consumer%20Communications%20and%20Networking%20Conference%202006%E3%80%91FilmTrust%20movie.pdf&amp;id=38028"
     target="_blank">
         【IEEE Consumer Communications and Networking Conference 2006】FilmTrust
@@ -692,7 +660,6 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90IEEE%20Trans%20on%20Audio%2C%20Speech%20and%20Laguage%20Processing%202010%E3%80%91Personalized%20music%20.pdf&amp;id=38029"
     target="_blank">
         【IEEE Trans on Audio, Speech and Laguage Processing 2010】Personalized
@@ -700,7 +667,6 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90IEEE%20Transactions%20on%20Knowledge%20and%20Data%20Engineering%202005%E3%80%91Toward%20the%20next%20ge.pdf&amp;id=38030"
     target="_blank">
         【IEEE Transactions on Knowledge and Data Engineering 2005】Toward the next
@@ -708,7 +674,6 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90INFOCOM%202011%E3%80%91Bayesian-inference%20Based%20Recommendation%20in%20Online%20Social%20Network.pdf&amp;id=38031"
     target="_blank">
         【INFOCOM 2011】Bayesian-inference Based Recommendation in Online Social
@@ -716,21 +681,18 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90KDD%202009%E3%80%91Learning%20optimal%20ranking%20with%20tensor%20factorization%20for%20tag%20recomme.pdf&amp;id=38032"
     target="_blank">
         【KDD 2009】Learning optimal ranking with tensor factorization for tag recomme.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90SIGIR%202009%E3%80%91Learning%20to%20Recommend%20with%20Social%20Trust%20Ensemble.pdf&amp;id=38033"
     target="_blank">
         【SIGIR 2009】Learning to Recommend with Social Trust Ensemble.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90SIGIR%202012%E3%80%91Adaptive%20Diversification%20of%20Recommendation%20Results%20via%20Latent%20Fa.pdf&amp;id=38034"
     target="_blank">
         【SIGIR 2012】Adaptive Diversification of Recommendation Results via Latent
@@ -738,21 +700,18 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90SIGIR%202012%E3%80%91Collaborative%20Personalized%20Tweet%20Recommendation.pdf&amp;id=38035"
     target="_blank">
         【SIGIR 2012】Collaborative Personalized Tweet Recommendation.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90SIGIR%202012%E3%80%91Dual%20Role%20Model%20for%20Question%20Recommendation%20in%20Community%20Questio.pdf&amp;id=38036"
     target="_blank">
         【SIGIR 2012】Dual Role Model for Question Recommendation in Community Questio.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90SIGIR%202012%E3%80%91Exploring%20Social%20Influence%20for%20Recommendation%20-%20A%20Generative%20Mod.pdf&amp;id=38037"
     target="_blank">
         【SIGIR 2012】Exploring Social Influence for Recommendation - A Generative
@@ -760,21 +719,18 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90SIGIR%202012%E3%80%91Increasing%20Temporal%20Diversity%20with%20Purchase%20Intervals.pdf&amp;id=38038"
     target="_blank">
         【SIGIR 2012】Increasing Temporal Diversity with Purchase Intervals.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90SIGIR%202012%E3%80%91Learning%20to%20Rank%20Social%20Update%20Streams.pdf&amp;id=38039"
     target="_blank">
         【SIGIR 2012】Learning to Rank Social Update Streams.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90SIGIR%202012%E3%80%91Personalized%20Click%20Shaping%20through%20Lagrangian%20Duality%20for%20Online.pdf&amp;id=38040"
     target="_blank">
         【SIGIR 2012】Personalized Click Shaping through Lagrangian Duality for
@@ -782,21 +738,18 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90SIGIR%202012%E3%80%91Predicting%20the%20Ratings%20of%20Multimedia%20Items%20for%20Making%20Personaliz.pdf&amp;id=38041"
     target="_blank">
         【SIGIR 2012】Predicting the Ratings of Multimedia Items for Making Personaliz.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90SIGIR%202012%E3%80%91TFMAP-Optimizing%20MAP%20for%20Top-N%20Context-aware%20Recommendation.pdf&amp;id=38042"
     target="_blank">
         【SIGIR 2012】TFMAP-Optimizing MAP for Top-N Context-aware Recommendation.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90SIGIR%202012%E3%80%91What%20Reviews%20are%20Satisfactory-%20Novel%20Features%20for%20Automatic%20Help.pdf&amp;id=38043"
     target="_blank">
         【SIGIR 2012】What Reviews are Satisfactory- Novel Features for Automatic
@@ -804,42 +757,36 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90SIGKDD%202012%E3%80%91%20A%20Semi-Supervised%20Hybrid%20Shilling%20Attack%20Detector%20for%20Trustwor.pdf&amp;id=38044"
     target="_blank">
         【SIGKDD 2012】 A Semi-Supervised Hybrid Shilling Attack Detector for Trustwor.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90SIGKDD%202012%E3%80%91%20RecMax-%20Exploiting%20Recommender%20Systems%20for%20Fun%20and%20Profit.pdf&amp;id=38045"
     target="_blank">
         【SIGKDD 2012】 RecMax- Exploiting Recommender Systems for Fun and Profit.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90SIGKDD%202012%E3%80%91Circle-based%20Recommendation%20in%20Online%20Social%20Networks.pdf&amp;id=38046"
     target="_blank">
         【SIGKDD 2012】Circle-based Recommendation in Online Social Networks.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90SIGKDD%202012%E3%80%91Cross-domain%20Collaboration%20Recommendation.pdf&amp;id=38047"
     target="_blank">
         【SIGKDD 2012】Cross-domain Collaboration Recommendation.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90SIGKDD%202012%E3%80%91Finding%20Trending%20Local%20Topics%20in%20Search%20Queries%20for%20Personaliza.pdf&amp;id=38048"
     target="_blank">
         【SIGKDD 2012】Finding Trending Local Topics in Search Queries for Personaliza.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90SIGKDD%202012%E3%80%91GetJar%20Mobile%20Application%20Recommendations%20with%20Very%20Sparse%20Datasets.pdf&amp;id=38049"
     target="_blank">
         【SIGKDD 2012】GetJar Mobile Application Recommendations with Very Sparse
@@ -847,7 +794,6 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90SIGKDD%202012%E3%80%91Incorporating%20Heterogenous%20Information%20for%20Personalized%20Tag%20Rec.pdf&amp;id=38050"
     target="_blank">
         【SIGKDD 2012】Incorporating Heterogenous Information for Personalized Tag
@@ -855,21 +801,18 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90SIGKDD%202012%E3%80%91Learning%20Personal%2BSocial%20Latent%20Factor%20Model%20for%20Social%20Recomme.pdf&amp;id=38051"
     target="_blank">
         【SIGKDD 2012】Learning Personal+Social Latent Factor Model for Social Recomme.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90VLDB%202012%E3%80%91Challenging%20the%20Long%20Tail%20Recommendation.pdf&amp;id=38052"
     target="_blank">
         【VLDB 2012】Challenging the Long Tail Recommendation.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90VLDB%202012%E3%80%91Supercharging%20Recommender%20Systems%20using%20Taxonomies%20for%20Learning%20U.pdf&amp;id=38053"
     target="_blank">
         【VLDB 2012】Supercharging Recommender Systems using Taxonomies for Learning
@@ -877,7 +820,6 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90WWW%202012%20Best%20paper%E3%80%91Build%20Your%20Own%20Music%20Recommender%20by%20Modeling%20Internet%20R.pdf&amp;id=38054"
     target="_blank">
         【WWW 2012 Best paper】Build Your Own Music Recommender by Modeling Internet
@@ -885,14 +827,12 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90WWW%202013%E3%80%91A%20Personalized%20Recommender%20System%20Based%20on%20User%5C%26%23039%3Bs%20Informatio.pdf&amp;id=38055"
     target="_blank">
         【WWW 2013】A Personalized Recommender System Based on User's Informatio.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90WWW%202013%E3%80%91Diversified%20Recommendation%20on%20Graphs-Pitfalls%2C%20Measures%2C%20and%20Algorithms.pdf&amp;id=38056"
     target="_blank">
         【WWW 2013】Diversified Recommendation on Graphs-Pitfalls, Measures, and
@@ -900,7 +840,6 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90WWW%202013%E3%80%91Do%20Social%20Explanations%20Work-Studying%20and%20Modeling%20the%20Effects%20of%20S.pdf&amp;id=38057"
     target="_blank">
         【WWW 2013】Do Social Explanations Work-Studying and Modeling the Effects
@@ -908,84 +847,72 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90WWW%202013%E3%80%91Generation%20of%20Coalition%20Structures%20to%20Provide%20Proper%20Groups%5C%26%23039%3B.pdf&amp;id=38058"
     target="_blank">
         【WWW 2013】Generation of Coalition Structures to Provide Proper Groups'.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90WWW%202013%E3%80%91Learning%20to%20Recommend%20with%20Multi-Faceted%20Trust%20in%20Social%20Networks.pdf&amp;id=38059"
     target="_blank">
         【WWW 2013】Learning to Recommend with Multi-Faceted Trust in Social Networks.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90WWW%202013%E3%80%91Multi-Label%20Learning%20with%20Millions%20of%20Labels-Recommending%20Advertis.pdf&amp;id=38060"
     target="_blank">
         【WWW 2013】Multi-Label Learning with Millions of Labels-Recommending Advertis.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90WWW%202013%E3%80%91Personalized%20Recommendation%20via%20Cross-Domain%20Triadic%20Factorization.pdf&amp;id=38061"
     target="_blank">
         【WWW 2013】Personalized Recommendation via Cross-Domain Triadic Factorization.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90WWW%202013%E3%80%91Profile%20Deversity%20in%20Search%20and%20Recommendation.pdf&amp;id=38062"
     target="_blank">
         【WWW 2013】Profile Deversity in Search and Recommendation.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90WWW%202013%E3%80%91Real-Time%20Recommendation%20of%20Deverse%20Related%20Articles.pdf&amp;id=38063"
     target="_blank">
         【WWW 2013】Real-Time Recommendation of Deverse Related Articles.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90WWW%202013%E3%80%91Recommendation%20for%20Online%20Social%20Feeds%20by%20Exploiting%20User%20Response.pdf&amp;id=38064"
     target="_blank">
         【WWW 2013】Recommendation for Online Social Feeds by Exploiting User Response.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90WWW%202013%E3%80%91Recommending%20Collaborators%20Using%20Keywords.pdf&amp;id=38065"
     target="_blank">
         【WWW 2013】Recommending Collaborators Using Keywords.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90WWW%202013%E3%80%91Signal-Based%20User%20Recommendation%20on%20Twitter.pdf&amp;id=38066"
     target="_blank">
         【WWW 2013】Signal-Based User Recommendation on Twitter.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90WWW%202013%E3%80%91SoCo-%20A%20Social%20Network%20Aided%20Context-Aware%20Recommender%20System.pdf&amp;id=38067"
     target="_blank">
         【WWW 2013】SoCo- A Social Network Aided Context-Aware Recommender System.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90WWW%202013%E3%80%91Tailored%20News%20in%20the%20Palm%20of%20Your%20HAND-A%20Multi-Perspective%20Transpa.pdf&amp;id=38068"
     target="_blank">
         【WWW 2013】Tailored News in the Palm of Your HAND-A Multi-Perspective Transpa.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90WWW%202013%E3%80%91TopRec-Domain-Specific%20Recommendation%20through%20Community%20Topic%20Mini.pdf&amp;id=38069"
     target="_blank">
         【WWW 2013】TopRec-Domain-Specific Recommendation through Community Topic
@@ -993,7 +920,6 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90WWW%202013%E3%80%91User%5C%26%23039%3Bs%20Satisfaction%20in%20Recommendation%20Systems%20for%20Groups-an%20.pdf&amp;id=38070"
     target="_blank">
         【WWW 2013】User's Satisfaction in Recommendation Systems for Groups-an
@@ -1001,7 +927,6 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90WWW%202013%E3%80%91Using%20Link%20Semantics%20to%20Recommend%20Collaborations%20in%20Academic%20Socia.pdf&amp;id=38071"
     target="_blank">
         【WWW 2013】Using Link Semantics to Recommend Collaborations in Academic
@@ -1009,21 +934,18 @@ Recommendable(Ruby)
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=%E3%80%90WWW%202013%E3%80%91Whom%20to%20Mention-Expand%20the%20Diffusion%20of%20Tweets%20by%20%40%20Recommendation.pdf&amp;id=38072"
     target="_blank">
         【WWW 2013】Whom to Mention-Expand the Diffusion of Tweets by @ Recommendation.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=Recommender%2BSystems%2BHandbook.pdf&amp;id=38073"
     target="_blank">
         Recommender+Systems+Handbook.pdf
     </a>
 </p>
 <p style="line-height:16px;">
-    <img src="/static/ueditor/dialogs/attachment/fileTypeImages/icon_default.png">
     <a href="http://blog.sciencenet.cn/home.php?mod=attachment&amp;filename=tutorial.pdf&amp;id=38074"
     target="_blank">
         tutorial.pdf
