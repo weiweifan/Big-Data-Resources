@@ -145,6 +145,8 @@ Recommendable(Ruby)
 
 * 心中永远的正能量  <http://blog.csdn.net/yunlong34574>
 
+* 机器学习最佳入门学习资料汇总 <http://article.yeeyan.org/view/22139/410514>
+
 ###推荐系统
 
 * 推荐系统初探 <http://yongfeng.me/attach/rs-survey-zhang-slices.pdf>
