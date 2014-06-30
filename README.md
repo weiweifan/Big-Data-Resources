@@ -147,6 +147,8 @@ Recommendable(Ruby)
 
 * 机器学习最佳入门学习资料汇总 <http://article.yeeyan.org/view/22139/410514>
 
+* Books for Machine Learning with R <http://www.52ml.net/16312.html>
+
 ###推荐系统
 
 * 推荐系统初探 <http://yongfeng.me/attach/rs-survey-zhang-slices.pdf>
