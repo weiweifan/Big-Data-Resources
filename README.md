@@ -89,6 +89,8 @@ Google小组 <https://groups.google.com/forum/#!forum/resys>
 
 Journal of Machine Learning Research <http://jmlr.org/>
 
+在线的机器学习社区 <http://www.52ml.net/16336.html>
+
 ###信息检索
 
 清华大学信息检索组 <http://www.thuir.cn>
