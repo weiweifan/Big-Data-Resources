@@ -151,6 +151,8 @@ Recommendable(Ruby)
 
 * Books for Machine Learning with R <http://www.52ml.net/16312.html>
 
+* 是什么阻碍了你的机器学习目标？ <http://www.52ml.net/16436.htm>
+
 ###推荐系统
 
 * 推荐系统初探 <http://yongfeng.me/attach/rs-survey-zhang-slices.pdf>
