@@ -4,9 +4,6 @@ Share my personal resources
 
 #视频
 
-###大数据视频以及讲义
-<http://pan.baidu.com/share/link?shareid=3860301827&uk=3978262348>
-
 ###浙大数据挖掘系列
 <http://v.youku.com/v_show/id_XNTgzNDYzMjg=.html?f=2740765>
 
