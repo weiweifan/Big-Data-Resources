@@ -8,6 +8,7 @@ Share my personal resources
 
 * 机器学习经典书籍小结 <http://www.cnblogs.com/snake-hand/archive/2013/06/10/3131145.html>
 
+* 机器学习&深度学习经典资料汇总 <http://www.thebigdata.cn/JiShuBoKe/13299.html>
 
 #视频
 
@@ -76,6 +77,29 @@ Share my personal resources
 
 * Langid.py <https://github.com/saffsd/langid.py>
 
+* Jieba <https://github.com/fxsjy/jieba>
+
+* xTAS <https://github.com/NLeSC/xtas>
+
+* NumPy <https://github.com/numpy/numpy>
+
+* SciPy <https://github.com/scipy/scipy>
+
+* Matplotlib <https://github.com/matplotlib/matplotlib>
+
+* scikit-learn <https://github.com/scikit-learn/scikit-learn>
+
+* Pandas <https://github.com/pydata/pandas>
+
+* MDP <http://mdp-toolkit.sourceforge.net/>
+
+* PyBrain <https://github.com/pybrain/pybrain>
+
+* PyML <http://pyml.sourceforge.net/>
+
+* Milk <https://github.com/luispedro/milk>
+
+* PyMVPA <https://github.com/PyMVPA/PyMVPA>
 
 ## 博客
 
