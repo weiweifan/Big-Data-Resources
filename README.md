@@ -2,6 +2,16 @@
 
 Share my personal resources 
 
+##书籍
+
+###各种书~各种ppt~更新中~
+<http://pan.baidu.com/s/1EaLnZ>
+
+###机器学习经典书籍小结
+<http://www.cnblogs.com/snake-hand/archive/2013/06/10/3131145.html>
+
+=======================
+
 #视频
 
 ###浙大数据挖掘系列
@@ -22,20 +32,6 @@ Share my personal resources
 ###加州理工学院公开课：机器学习与数据挖掘
 <http://v.163.com/special/opencourse/learningfromdata.html>
 
-
-
-=======================
-
-
-##书籍
-
-###各种书~各种ppt~更新中~
-<http://pan.baidu.com/s/1EaLnZ>
-
-###机器学习经典书籍小结
-<http://www.cnblogs.com/snake-hand/archive/2013/06/10/3131145.html>
-
-
 =======================
 
 ##QQ群
@@ -46,9 +42,52 @@ Share my personal resources
 
 推荐系统 274750470
 
-## 博客
+##Github	
 
 ###推荐系统
+
+推荐系统开源软件列表汇总和评点 <http://in.sdo.com/?p=1707>
+
+* Mrec(Python) <https://github.com/mendeley/mrec>
+
+* Crab(Python) <https://github.com/muricoca/crab>
+
+* Python-recsys(Python) <https://github.com/ocelma/python-recsys>
+
+* CofiRank(C++) <https://github.com/markusweimer/cofirank>
+
+* GraphLab(C++) <https://github.com/graphlab-code/graphlab>
+
+* EasyRec(Java) <https://github.com/hernad/easyrec>
+
+* Lenskit(Java) <https://github.com/grouplens/lenskit>
+
+* Mahout(Java) <https://github.com/apache/mahout>
+
+* Recommendable(Ruby) <https://github.com/davidcelis/recommendable>
+
+###库
+
+* NLTK  <https://github.com/nltk/nltk>
+
+* Pattern <https://github.com/clips/pattern>
+
+* Pyrallel <https://github.com/pydata/pyrallel>
+
+* Theano <https://github.com/Theano/Theano>
+
+* Pylearn2 <https://github.com/lisa-lab/pylearn2>
+
+* TextBlob <https://github.com/sloria/TextBlob>
+
+* MBSP <https://github.com/clips/MBSP>
+
+* Gensim <https://github.com/piskvorky/gensim>
+
+* Langid.py <https://github.com/saffsd/langid.py>
+
+
+## 博客
 
 周涛 <http://blog.sciencenet.cn/home.php?mod=space&uid=3075>
 
@@ -82,61 +121,14 @@ LSRS 2013 <http://graphlab.org/lsrs2013/program/>
 
 Google小组 <https://groups.google.com/forum/#!forum/resys>
 
-###机器学习
-
 Journal of Machine Learning Research <http://jmlr.org/>
 
 在线的机器学习社区 <http://www.52ml.net/16336.html>
 
-###信息检索
-
 清华大学信息检索组 <http://www.thuir.cn>
-
-###自然语言处理
 
 我爱自然语言处理 <http://www.52nlp.cn/>
 
-##Github	
-
-###推荐系统
-
-推荐系统开源软件列表汇总和评点 <http://in.sdo.com/?p=1707>
-
-Mrec(Python)
-
-<https://github.com/mendeley/mrec>
-
-Crab(Python)
-
-<https://github.com/muricoca/crab>
-
-Python-recsys(Python)
-
-<https://github.com/ocelma/python-recsys>
-
-CofiRank(C++)
-
-<https://github.com/markusweimer/cofirank>
-
-GraphLab(C++)
-
-<https://github.com/graphlab-code/graphlab>
-
-EasyRec(Java)
-
-<https://github.com/hernad/easyrec>
-
-Lenskit(Java)
-
-<https://github.com/grouplens/lenskit>
-
-Mahout(Java)
-
-<https://github.com/apache/mahout>
-
-Recommendable(Ruby)
-
-<https://github.com/davidcelis/recommendable>
 
 ##文章
 
@@ -956,8 +948,6 @@ Recommendable(Ruby)
         tutorial.pdf
     </a>
 </p>
-
-
 
 ##各个领域的推荐系统
 
